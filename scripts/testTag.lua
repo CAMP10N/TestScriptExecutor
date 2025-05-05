@@ -5,7 +5,7 @@
 function greet(input)
     local name = input.name or "stranger"
     return {
-        greeting = "Hello, " .. name .. "!"
+        greeting = "Bye, " .. name .. "!"
     }
 end
 
